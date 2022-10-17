@@ -13,7 +13,7 @@ I am a software engineer with over 15 months of experience
 - 🔭 I have worked on and currently working on several front-end and full-stack web applications
 - 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis
 - 💬 Feel free to reach out to me for collaborations, offers, and contributions
-- 📫 You can send me email, vinlex3030@gmail.com, will respond to you as quickly as possible
+- 📫 You can send me email, alexander.vincentchinonso@gmail.com, will respond to you as quickly as possible
 
 Connect with me 👯
 <div id="badges">
