@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-:man_technologist: About Me : </br>
+About Me : </br>
 I am a software engineer with over 2 years of experience
 - 🔭 I have worked on and currently working on several front-end and full-stack web applications
 - 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis
