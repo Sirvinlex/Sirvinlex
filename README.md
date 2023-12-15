@@ -9,7 +9,7 @@
 </h1>
 
 About Me : </br>
-I am a software engineer with over 2 years of experience
+I am a software engineer with over 3 years of experience
 - 🔭 I have worked on and currently working on several front-end and full-stack web applications
 - 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis
 - 💬 Feel free to reach out to me for collaborations, offers, and contributions
