@@ -9,10 +9,11 @@
 </h1>
 
 About Me : </br>
-I am a software engineer with over 3 years of experience
-- 🔭 I have worked on and currently working on several front-end and full-stack web applications
-- 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis
-- 💬 Feel free to reach out to me for collaborations, offers, and contributions
+I am a Alexander Vincent 
+- 🔭 I have been coding in JavaScript for over 3 years now.
+- Currently learning Sui/Aptos move.
+- 💬 Please reach out to me for offers, collaboration and contributions
+- 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis.
 - 📫 You can send me email, alexander.vincentchinonso@gmail.com, will respond to you as quickly as possible
 
 Connect with me 👯
