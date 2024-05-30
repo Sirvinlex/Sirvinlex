@@ -11,7 +11,6 @@
 About Me : </br>
 I am a Alexander Vincent 
 - 🔭 I have been coding in JavaScript for over 3 years now.
-- Currently learning Sui/Aptos move.
 - 💬 Please reach out to me for offers, collaboration and contributions
 - 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis.
 - 📫 You can send me email, alexander.vincentchinonso@gmail.com, will respond to you as quickly as possible
