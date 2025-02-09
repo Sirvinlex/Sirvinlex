@@ -10,7 +10,7 @@
 
 About Me : </br>
 I am a Alexander Vincent
-- 🔭 A Full-stack developer with over 5 years of experience.
+- 🔭 A full-stack developer with over 5 years of experience.
 - 💬 Please reach out to me for offers, collaboration and contributions
 - 🌱 I’m open to learning new technologies and constantly improving myself on a regular basis.
 - 📫 You can send me email, alexander.vincentchinonso@gmail.com, will respond to you as quickly as possible
